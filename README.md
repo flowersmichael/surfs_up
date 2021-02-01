@@ -15,6 +15,7 @@ From a temperature standpoint, there's not a major difference between June and D
 
 ## Summary
 
+![June temperature summary](
 
+![City Latitude vs Max Temperature (12.29.20)](https://github.com/flowersmichael/surfs_up/blob/main/Resources/June%20temperature%20summary.png)
 
-![City Latitude vs Max Temperature (12.29.20)](https://github.com/flowersmichael/World_Weather_Analysis/blob/main/City%20Latitude%20vs%20Max%20Temperature--122920.png)
