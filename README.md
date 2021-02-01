@@ -8,10 +8,14 @@ In this project, to address the concerns of our potential investor, we analyze w
 ## Results
 From a temperature standpoint, you can see that December is generally colder than June, but the differences aren't drastic. 
 
-*June Temperature Summary
+
+June Temperature Summary
+
 ![June temperature summary](https://github.com/flowersmichael/surfs_up/blob/main/Resources/June%20temperature%20summary.png)
 
-*December Temperature Summary
+
+December Temperature Summary
+
 ![December temperature summary](https://github.com/flowersmichael/surfs_up/blob/main/Resources/December%20temperature%20summary.png)
 
 
